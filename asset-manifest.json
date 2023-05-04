@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.5b342306.css",
-    "main.js": "/static/js/main.82ccda48.js",
+    "main.js": "/static/js/main.5ec78299.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/dairy.png": "/static/media/dairy.b89fd7f3964fc7de617e.png",
-    "static/media/hi.png": "/static/media/hi.87922bfcb62839af327d.png",
+    "static/media/hi.png": "/static/media/hi.4c2b7cfdb4be32e903d9.png",
     "static/media/obd2.png": "/static/media/obd2.2a325ffec5920536d57e.png",
     "static/media/Sparcot.png": "/static/media/Sparcot.96765bd987d7150c4df9.png",
     "static/media/oxobikes.png": "/static/media/oxobikes.f9b98cc1553b963f218a.png",
@@ -32,11 +32,11 @@
     "static/media/js-logo.png": "/static/media/js-logo.940765f470ddd506af04.png",
     "index.html": "/index.html",
     "main.5b342306.css.map": "/static/css/main.5b342306.css.map",
-    "main.82ccda48.js.map": "/static/js/main.82ccda48.js.map",
+    "main.5ec78299.js.map": "/static/js/main.5ec78299.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b342306.css",
-    "static/js/main.82ccda48.js"
+    "static/js/main.5ec78299.js"
   ]
 }
