@@ -84,7 +84,7 @@ export const skills: Skill[] = [
   },
   {
     name: "Android Studio",
-    url: "https://nodejs.org/en/",
+    url: "https://developer.android.com/studio?gclid=CjwKCAjwpayjBhAnEiwA-7ena4Q0KN8CNKpJ_WeJoYs6r851K8syUypUM9ve2GcEW7J0JnvzIVIuABoCgbcQAvD_BwE&gclsrc=aw.ds",
     img: Android
   },
   {
@@ -104,7 +104,7 @@ export const skills: Skill[] = [
   },
   {
     name: "AutoCAD",
-    url: "https://moralis.io/",
+    url: "https://www.autodesk.in/products/autocad/overview?mktvar002=5019031|SEM|11381098301|111085709213|kwd-297275808151&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_DEC_AutoCAD_APAC_IN_eComm_SEM_BR_New_EX_0000_5019031_PureBrand&utm_id=5019031&utm_term=kwd-297275808151&mkwid=s|pcrid|591421598631|pkw|autocad|pmt|e|pdv|c|slid||pgrid|111085709213|ptaid|kwd-297275808151|pid|&utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=autocad&utm_content=s|pcrid|591421598631|pkw|autocad|pmt|e|pdv|c|slid||pgrid|111085709213|ptaid|kwd-297275808151|&gad=1&gclid=CjwKCAjwpayjBhAnEiwA-7ena0j2xG2ssDtZUvETcGdYGgXlbG90Yxe4D0pERTAays1hvlFUMnZQbhoCFF8QAvD_BwE&ef_id=YsQU4wAAAHZmtAM5:20230522162229:s",
     img: Autocad
   },
   {
@@ -144,7 +144,7 @@ export const skills: Skill[] = [
   },
   {
     name: "Flutter",
-    url: "https://reactnative.dev/",
+    url: "https://flutter.dev/development?gclid=CjwKCAjwpayjBhAnEiwA-7ena3OAW2MGWMeb2I28xJ86MyCzor9ABkOcr6lHsVjOa8XDb__FGpPo5BoC9RAQAvD_BwE&gclsrc=aw.ds",
     img: Flutter
   },
   {
