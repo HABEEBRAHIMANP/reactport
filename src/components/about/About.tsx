@@ -54,7 +54,7 @@ const About = () => {
             </Heading>
           </div>
           <div className="about-text-desc">
-            <Text fontSize='3xl'>Passionate <span className="name">IT ENGINEER</span> from India with almost 4 years of experience in web design, web development, graphic design and IT Support. As well as working as an IT Support Engineer. My experience and knowledge would be a great asset to a role as an IT Support Engineer.</Text>
+            <Text fontSize='3xl'>Passionate <span className="name">TECH ENTHUSIAST</span> from India with almost 5 years of experience in web design, web development, graphic design and IT Support. As well as working as an IT Support Engineer. My experience and knowledge would be a great asset to a role as an IT Engineer.</Text>
           </div>
 
           <div className="icons">
@@ -76,7 +76,7 @@ const About = () => {
           </a>
         </div>
         <div className="about-avatar">
-          <img src={avatar} className="avatar" alt="Tijan Bitmoji" />
+          <img src={avatar} className="avatar" alt="HABEEBEMOJ" />
         </div>
       </div>
       <div className="icon-wrapper">

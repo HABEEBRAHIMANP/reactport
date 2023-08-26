@@ -21,7 +21,7 @@ export const contacts: Contact[] = [
     name: "EMAIL:",
     info: "habeebmeladi@gmail.com",
     icon: <MdOutlineEmail className="contact-icon" />,
-    url: "mailto:contactme@tijan.dev",
+    url: "mailto:habeebmeladi@gmail.com",
   },
   {
     name: "WHATSAPP:",
