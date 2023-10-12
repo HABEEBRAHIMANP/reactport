@@ -70,7 +70,7 @@ export const skills: Skill[] = [
     img: MicrosoftOffice365
   },
   {
-    name: "Woocommerce",
+    name: "commerce",
     url: "https://woocommerce.com/",
     img: Woocommerce
   },
