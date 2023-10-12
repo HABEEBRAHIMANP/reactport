@@ -22,6 +22,8 @@ import Nas from "./../../images/nas.png";
 import Angular from "./../../images/angular.png";
 import MCSE from "./../../images/mcse.png";
 import Android from "./../../images/andorid.jpg";
+import Woocommerce from "./../../images/Woocommerce.png";
+import Elementor from "./../../images/Elementor.svg";
 
 export type Skill = {
   name: string;
@@ -66,6 +68,16 @@ export const skills: Skill[] = [
     name: "Microsoft Office 365",
     url: "https://www.office.com/",
     img: MicrosoftOffice365
+  },
+  {
+    name: "Woocommerce",
+    url: "https://woocommerce.com/",
+    img: Woocommerce
+  },
+  {
+    name: "Elementor",
+    url: "https://elementor.com/",
+    img: Elementor
   },
   {
     name: "VSCode",
