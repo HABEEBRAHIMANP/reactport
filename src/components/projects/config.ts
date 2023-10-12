@@ -7,7 +7,7 @@ import Automax from "./../../images/automax.png";
 import Dairy from "./../../images/dairy.png";
 import AMT from "./../../images/amt.png";
 import obd2 from "./../../images/obd2.png";
-import white from "./../../images/White.jpeg";
+import white from "./../../images/white.png";
 
 export type Project = {
   name: string,
