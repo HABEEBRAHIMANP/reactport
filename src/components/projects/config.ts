@@ -7,6 +7,7 @@ import Automax from "./../../images/automax.png";
 import Dairy from "./../../images/dairy.png";
 import AMT from "./../../images/amt.png";
 import obd2 from "./../../images/obd2.png";
+import white from "./../../images/White.jpeg";
 
 export type Project = {
   name: string,
@@ -25,6 +26,14 @@ export const projects: Project[] = [
     url: "",
     github: "",
     technologies: getSkill(["react", "typescript", "html", "css", "git", "npm"])
+  },
+  {
+    name: "Whitefort Restaurant",
+    description: "E-commerce website development involves creating online platforms that enable businesses to sell their products or services to customers over the internet, offering a convenient and secure shopping experience",
+    image: white,
+    url: "https://whitefort-mandi.shop/",
+    github: "",
+    technologies: getSkill(["wordpress", "css", "photoshop", "seo", "html"])
   },
   {
     name: "Obd2world",
