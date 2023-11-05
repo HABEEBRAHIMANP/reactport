@@ -8,6 +8,7 @@ import Dairy from "./../../images/dairy.png";
 import AMT from "./../../images/amt.png";
 import obd2 from "./../../images/obd2.png";
 import white from "./../../images/White.png";
+import DR from "./../../images/drsalwadarwish.png";
 
 export type Project = {
   name: string,
@@ -74,6 +75,14 @@ export const projects: Project[] = [
     url: "https://sparcot.com/",
     github: "https://github.com/",
     technologies: getSkill(["wordpress", "javascript", "css", "html", "git", "vscode","bootstarp","Illustator"])
+  },
+  {
+    name: "DR Salwa Dental Center",
+    description: "Develop Dental Center website. Under MultiSquad IT Solutions ",
+    image: DR,
+    url: "https://salwadentalcenter.com/",
+    github: "https://github.com/",
+    technologies: getSkill(["wordpress", "javascript", "css", "html", "Digital Marketing", "SEO","Elementor","photoshop"])
   },
   {
     name: "Flutter Ecommerce Shopping Application Connects to WordPress",

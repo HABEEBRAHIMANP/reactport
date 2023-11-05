@@ -16,6 +16,9 @@ import react from "./images/9.jpg";
 import contract1 from "./images/10.jpg";
 import contract2 from "./images/11.jpg";
 import security from "./images/12.jpg";
+import uaecode from "./images/uaecode.jpg";
+import tdra from "./images/Transforming Tasks with AI Certificate 1699029060.png";
+import ms365 from "./images/ms365.jpg";
 
 import "swiper/css";
 import "swiper/css/effect-coverflow";
@@ -88,6 +91,15 @@ const Certificates = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img src={security} alt="Certificate" className="certificate-img" />
+          </SwiperSlide>
+          <SwiperSlide>
+            <img src={uaecode} alt="Certificate" className="certificate-img" />
+          </SwiperSlide>
+          <SwiperSlide>
+            <img src={tdra} alt="Certificate" className="certificate-img" />
+          </SwiperSlide>
+          <SwiperSlide>
+            <img src={ms365} alt="Certificate" className="certificate-img" />
           </SwiperSlide>
         </Swiper>
       </div>
