@@ -35,7 +35,7 @@ export const projects: Project[] = [
     image: white,
     url: "https://whitefort-mandi.shop/",
     github: "",
-    technologies: getSkill(["wordpress", "css", "photoshop", "seo", "html"])
+    technologies: getSkill(["wordpress", "css", "photoshop", "seo", "elementor", "html"])
   },
   {
     name: "Obd2world",
@@ -43,7 +43,7 @@ export const projects: Project[] = [
     image: obd2,
     url: "https://www.obd2world.co.uk/",
     github: "",
-    technologies: getSkill(["wordpress", "", "photoshop", "seo", "solidity"])
+    technologies: getSkill(["wordpress", "elementor", "photoshop", "seo", "solidity"])
   },
   {
     name: "Oxobikes",
@@ -59,7 +59,7 @@ export const projects: Project[] = [
     image: Dairy,
     url: "http://dairy.sparcot.com/",
     github: "https://github.com/",
-    technologies: getSkill(["wordpress", "photoshop", ""])
+    technologies: getSkill(["wordpress", "photoshop", "elementor"])
   },
   {
     name: "Automax Tools",
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     image: Automax,
     url: "https://www.automaxtools.me/",
     github: "https://github.com/",
-    technologies: getSkill(["wordpress", "photoshop", "seo", "digital marketing",])
+    technologies: getSkill(["wordpress", "elementor", "photoshop", "seo", "digital marketing",])
   },
   {
     name: "Sparcot",
