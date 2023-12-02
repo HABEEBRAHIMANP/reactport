@@ -8,7 +8,8 @@ import Dairy from "./../../images/dairy.png";
 import AMT from "./../../images/amt.png";
 import obd2 from "./../../images/obd2.png";
 import white from "./../../images/White.png";
-import DR from "./../../images/drsalwadarwish.png";
+import DR from "./../../images/drsalwadarwish.png"
+import Sara from "./../../images/sarainfolabs web.png"
 
 export type Project = {
   name: string,
@@ -91,5 +92,13 @@ export const projects: Project[] = [
     url: "https://play.google.com/store/apps/details?id=me.automaxtools.amtonlinestore",
     github: "",
     technologies: getSkill(["flutter", "wordpress", "photoshop", "android studio"])
+  },
+  {
+    name: "SARA INFO LABS",
+    description: "Develop IT Company website. Under SARA INFO LABS",
+    image: Sara,
+    url: "https://sarainfolabs.com",
+    github: "",
+    technologies: getSkill(["wordpress", "javascript", "css", "html", "Digital Marketing", "SEO","Elementor","photoshop"])
   },
 ]
