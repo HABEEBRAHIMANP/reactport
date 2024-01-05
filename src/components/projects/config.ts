@@ -87,9 +87,9 @@ export const projects: Project[] = [
   },
   {
     name: "Flutter Ecommerce Shopping Application Connects to WordPress",
-    description: "Integrated Flutter App For Wordpress & Woocommerce. For a better shopping experience. Under testing stage.",
+    description: "Configure and Execute Flutter App For WordPress & Woocommerce. For a better shopping experience.",
     image: AMT,
-    url: "https://play.google.com/store/apps/details?id=me.automaxtools.amtonlinestore",
+    url: "https://play.google.com/store/apps/details?id=com.automaxtools.automax&pcampaignid=web_share",
     github: "",
     technologies: getSkill(["flutter", "wordpress", "photoshop", "android studio"])
   },
