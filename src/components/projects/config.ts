@@ -10,6 +10,7 @@ import obd2 from "./../../images/obd2.png";
 import white from "./../../images/White.png";
 import DR from "./../../images/drsalwadarwish.png"
 import Sara from "./../../images/sarainfolabs web.png"
+import Autotech from "./../../images/Autotech.png"
 
 export type Project = {
   name: string,
@@ -100,5 +101,13 @@ export const projects: Project[] = [
     url: "https://sarainfolabs.com",
     github: "",
     technologies: getSkill(["wordpress", "javascript", "css", "html", "Digital Marketing", "SEO","Elementor","photoshop"])
+  },
+  {
+    name: "Auto-Tech",
+    description: "Develop Automotive Equpment website. Under Automax Tools",
+    image: Autotech,
+    url: "https://auto-tech.me",
+    github: "",
+    technologies: getSkill(["wordpress", "javascript", "css", "html", "", "SEO","","photoshop"])
   },
 ]
