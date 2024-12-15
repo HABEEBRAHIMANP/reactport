@@ -34,7 +34,7 @@ export const projects: Project[] = [
     name: "Whitefort Restaurant",
     description: "E-commerce website development involves creating online platforms that enable businesses to sell their products or services to customers over the internet, offering a convenient and secure shopping experience",
     image: white,
-    url: "https://whitefort-mandi.shop/",
+    url: "https://whitefort-mandi.in/",
     github: "",
     technologies: getSkill(["wordpress", "css", "photoshop", "seo", "elementor", "html"])
   },
@@ -98,7 +98,7 @@ export const projects: Project[] = [
     name: "SARA INFO LABS",
     description: "Develop IT Company website. Under SARA INFO LABS",
     image: Sara,
-    url: "https://sarainfolabs.com",
+    url: "https://sarainfolabs.in",
     github: "",
     technologies: getSkill(["wordpress", "javascript", "css", "html", "Digital Marketing", "SEO","Elementor","photoshop"])
   },
