@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.5b342306.css",
-    "main.js": "/static/js/main.fbaa3996.js",
+    "main.js": "/static/js/main.058d7e6c.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/dairy.png": "/static/media/dairy.b89fd7f3964fc7de617e.png",
+    "static/media/topdon.png": "/static/media/topdon.1f3cbb573ecb5b65d9cd.png",
     "static/media/hi.png": "/static/media/hi.4c2b7cfdb4be32e903d9.png",
+    "static/media/automax.png": "/static/media/automax.94cdd7176d1ba991a579.png",
     "static/media/obd2.png": "/static/media/obd2.2a325ffec5920536d57e.png",
     "static/media/Sparcot.png": "/static/media/Sparcot.96765bd987d7150c4df9.png",
     "static/media/oxobikes.png": "/static/media/oxobikes.f9b98cc1553b963f218a.png",
+    "static/media/shop.png": "/static/media/shop.6e9d03469d1bdd544948.png",
     "static/media/drsalwadarwish.png": "/static/media/drsalwadarwish.0fbea2897c443c09a054.png",
     "static/media/White.png": "/static/media/White.b4aef1f46c94cb8797dc.png",
-    "static/media/automax.png": "/static/media/automax.bf6d8d224e86a5ca223f.png",
     "static/media/Autotech.png": "/static/media/Autotech.f2b51b01eb9689af075f.png",
     "static/media/amt.png": "/static/media/amt.b8eba26d949971f3623c.png",
     "static/media/portfolio.png": "/static/media/portfolio.ca81668eb4e9e6c9c3e2.png",
@@ -41,11 +43,11 @@
     "index.html": "/index.html",
     "static/media/Elementor.svg": "/static/media/Elementor.f0ad39313ae6003829d50af3cd811444.svg",
     "main.5b342306.css.map": "/static/css/main.5b342306.css.map",
-    "main.fbaa3996.js.map": "/static/js/main.fbaa3996.js.map",
+    "main.058d7e6c.js.map": "/static/js/main.058d7e6c.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b342306.css",
-    "static/js/main.fbaa3996.js"
+    "static/js/main.058d7e6c.js"
   ]
 }
