@@ -11,6 +11,9 @@ import white from "./../../images/White.png";
 import DR from "./../../images/drsalwadarwish.png"
 import Sara from "./../../images/sarainfolabs web.png"
 import Autotech from "./../../images/Autotech.png"
+import topdon from "./../../images/topdon.png"
+import shop from "./../../images/shop.png"
+
 
 export type Project = {
   name: string,
@@ -35,6 +38,22 @@ export const projects: Project[] = [
     description: "E-commerce website development involves creating online platforms that enable businesses to sell their products or services to customers over the internet, offering a convenient and secure shopping experience",
     image: white,
     url: "https://whitefort-mandi.in/",
+    github: "",
+    technologies: getSkill(["wordpress", "css", "photoshop", "seo", "elementor", "html"])
+  },
+  {
+    name: "Topdon AE",
+    description: "E-commerce website development involves creating online platforms that enable businesses to sell their products or services to customers over the internet, offering a convenient and secure shopping experience",
+    image: topdon,
+    url: "https://topdon.ae/",
+    github: "",
+    technologies: getSkill(["wordpress", "css", "photoshop", "seo", "elementor", "html"])
+  },
+  {
+    name: "Autogarageshop",
+    description: "E-commerce website development involves creating online platforms that enable businesses to sell their products or services to customers over the internet, offering a convenient and secure shopping experience",
+    image: shop,
+    url: "https://autogarageshop.com/",
     github: "",
     technologies: getSkill(["wordpress", "css", "photoshop", "seo", "elementor", "html"])
   },
@@ -64,7 +83,7 @@ export const projects: Project[] = [
   },
   {
     name: "Automax Tools",
-    description: "Maintaining existing web adding new features, product adding changing graphics banner, etc.",
+    description: "Maintaining existing web and rebuild completely add new features, product adding changing graphics banner, etc.",
     image: Automax,
     url: "https://www.automaxtools.me/",
     github: "https://github.com/",
